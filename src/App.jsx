@@ -83,8 +83,8 @@ function App() {
           </div>
           
           {/* Replaced placeholder box with your custom uploaded image */}
-          <div className="hero-right-col">
-            <img src="/2.png" alt="Kuriaa247 Operations" className="hero-custom-img" />
+  <div className="hero-right-col h-[400px] w-full overflow-hidden rounded-xl">
+  <img src="/2.png" alt="Kuriaa247 Operations" className="hero-custom-img block h-full w-full object-cover" />
           </div>
         </div>
       </section>
