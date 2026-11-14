@@ -1,0 +1,6 @@
+node_modules
+dist
+.env
+server/kuriaa247.sqlite
+server/kuriaa247.sqlite-shm
+server/kuriaa247.sqlite-wal
